@@ -1,0 +1,164 @@
+<html>
+    <head>
+        <title>
+            Light
+        </title>
+        <style type="Text/css">
+            h3 { background-color: yellow;
+            }
+            p { background-color: lightgreen;}
+            ul { background-color: lightcoral;}
+            h2{ background-color: yellow;}
+        </style>
+    </head>
+    <body>
+        <h3>Light: Definition</h3>
+<p>Light is a form of energy that enables us to see things. Light starts from a source and bounces off objects which are perceived by our eyes, and our brain processes this signal, which eventually enables us to see. Maxwell predicted that magnetic and electric fields travel in the form of waves, and these waves move at the speed of light. This led Maxwell to predict that light itself was carried by electromagnetic waves, which means that light is a form of electromagnetic radiation.</p>
+<h3>Nature of Light</h3>
+<p>Light behaves as a:</p>
+<ul>
+<li>ray, e.g. reflection</li>
+<li>wave, e.g. interference and diffraction</li>
+<li>particle, e.g. photoelectric effect</li>
+</ul>
+<p>According to the concept of wave-particle duality in quantum mechanics, light exhibits both particle and wave nature, depending upon the circumstances. A phenomenon like diffraction, polarisation and interference could be explained by considering light as a wave. A phenomenon like the photoelectric effect is explained by assuming that light consists of particles called photons.</p>
+<h2 id="laws-of-reflection">Laws of Reflection</h2>
+<h3>Light Incident on the Surface Separating Two Media</h3>
+<p>When light travels from one medium to another medium it&nbsp;either:</p>
+<ul>
+<li>gets absorbed (absorption)</li>
+<li>bounces back (reflection)</li>
+<li>passes through or bends (refraction)</li>
+</ul>
+<p>When light is incident on a plane mirror, most of it gets reflected, and some of it gets absorbed in the medium.</p>
+<h3>Characteristics of Light</h3>
+<ul>
+<li>The speed of light is given as c=&lambda;&mu;, where &lambda; is its wavelength and &mu; is its frequency.</li>
+<li>The speed of light is a constant which is 2.998&times;10<sup>8</sup>m/s or approximately 3.0&times;10<sup>8</sup>m/s.</li>
+</ul>
+<h3>Reflection of Light by Other Media</h3>
+<p>A medium that is polished well without any irregularities on its surface will cause regular reflection of light. For example, a plane mirror. But even then, some light gets absorbed by the surface.</p>
+<h3>Laws of Reflection</h3>
+<p>The incident ray, reflected ray and the normal all lie in the same plane.&nbsp; Angle of incidence = Angle of reflection<br>
+    <h3>Propagation of Light</h3>
+<p>Rectilinear propagation of light: Light travels in a straight line between any two points.</p>
+<h3>Propagation of Light</h3>
+<p>Rectilinear propagation of light: Light travels in a straight line between any two points.</p>
+h3>Image Formation by a Plane Mirror</h3>
+<ul>
+<li>The image formed by a plane mirror is always virtual and erect.</li>
+<li>Object and image are equidistant from the mirror.</li>
+</ul>
+<h3>Characteristics of Images</h3>
+<ul>
+<li>Images can be real or virtual, erect or inverted, magnified or diminished. A real image is formed by the actual convergence of light rays. A virtual image is an apparent convergence of diverging light rays.</li>
+<li>If an image formed is upside down, then it is called inverted or else it is an erect image. If the image formed is bigger than the object, then it is called magnified. If the image formed is smaller than the object, then it is diminished.</li>
+</ul>
+<h3>Principle of Reversibility of Light</h3>
+<p>If the direction of a ray of light is reversed due to reflection off a surface, then it will&nbsp;retrace its path.</p>
+
+<h3>Spherical Mirror</h3>
+<p>Consider a hollow sphere with a very smooth and polished inside surface and an outer surface with a coating of mercury so that no light can come out. Then if we cut a thin slice out of the shell, we get a curved mirror, which is called&nbsp;a spherical mirror.<br>
+    <h3>Relationship between Focus and Radius of Curvature</h3>
+<p>Focal length is half the distance between the pole and the radius of curvature.</p>
+<h3>Curved Mirror</h3>
+<p>A mirror (or any polished, reflective surface) with a curvature is known as a curved mirror.<br>
+    <h3>Important Terms Related to Spherical Mirror</h3>
+    <ul>
+        <li>Pole (P): The midpoint of a spherical mirror.</li>
+        <li>Centre of curvature (C): The centre of the sphere that the spherical mirror was a part of.</li>
+        <li>The radius of curvature (r): The distance between the centre of&nbsp;curvature and the spherical mirror. This radius will intersect the mirror at the pole (P).</li>
+        <li>Principal Axis: The line passing through the pole and the centre of curvature is the main or principal axis.</li>
+        <li>Concave Mirror: A spherical mirror with a reflecting surface that bulges inwards.</li>
+        <li>Convex Mirror: A spherical mirror with a reflecting surface that bulges outwards.</li>
+        <li>Focus (F): Take a concave mirror. All rays parallel to the principal axis converge at a point between the pole and the centre of curvature. This point is called the focal point or focus.</li>
+        <li>Focal length: Distance between pole and focus.</li>
+        </ul>
+        <h3>Rules of Ray Diagram for Representation of Images Formed</h3>
+        <ul>
+        <li>&nbsp;A ray passing through the centre of curvature hits the concave spherical mirror and retraces its path.</li>
+        <li>Rays parallel to the principal axis passes through the focal point or focus.</li>
+        </ul>
+        <h3>Image Formation by Spherical Mirrors</h3>
+        <p>For objects at various positions, the image formed can be found using the ray diagrams for the special two rays. The following table is for a concave mirror.</p>
+        </div>
+        <h3>Uses of SphericalMirror based on the Image Formed</h3>
+<p>Concave and Convex mirrors are used for many daily purposes.<br>
+Example: Rear view mirrors in vehicles, lamps, solar cookers.<br>
+<h2 id="mirror-formula-and-magnification">Mirror Formula and Magnification</h2>
+<table>
+<tbody>
+<tr>
+<td>
+</tr>
+</tbody>
+</table>
+<p>where &lsquo;u&rsquo; is object distance, &lsquo;v&rsquo; is the image distance and &lsquo;f&rsquo; is the focal length of the spherical mirror, which is found by the similarity of triangles.</p>
+<ul>
+<li>The magnification produced by a spherical mirror is the ratio of the height of the image to the height of the object. It is usually represented as &lsquo;m&rsquo;.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Sign Convention for Ray Diagram</h3>
+<p>Distances measured towards positive x and y axes (coordinate system) are positive, and towards negative, x and y-axes are negative. Keep in mind the origin is the pole (P). Usually, the height of the object is taken as positive as it is above the principal axis, and the height of the image is taken as negative as it is below the principal axis.</p>
+<h3>Position and Size of Image Formed</h3>
+<p>The size of the image can be found using the magnification formula m = h&rsquo;/h = &ndash; (v/u). If m is -ve it is a real image and if it is +ve it is a virtual image.</p>
+<h2 id="refraction-through-a-glass-slab-and-refractive-index">Refraction Through a Glass Slab and Refractive Index</h2>
+<h3>Refraction</h3>
+<p>The shortest path need not be the quickest path. Since light is always in a hurry, it bends when it enters a different medium as it is still following the quickest path. This phenomenon of light bending in a different medium is called refraction.</p>
+
+<h3>Laws of Refraction</h3>
+<ul>
+<li>The incident ray, the refracted ray and the normal to the interface of two transparent media at the point of incidence all lie in the same plane.</li>
+<li>The ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant for the light of a given colour and for the given pair of media. This law is also known as Snell&rsquo;s law of refraction.</li>
+</ul>
+<h3>Absolute and Relative Refractive Index</h3>
+<p>The refractive index of one medium with respect to another medium is called the relative refractive index. When taken with respect to a vacuum, it&rsquo;s known as an absolute refractive index.</p>
+<h3>Refraction through a Rectangular Glass Slab</h3>
+<p>When the light is incident on a rectangular glass slab, it emerges out parallel to the incident ray and is laterally displaced. It moves from rarer to a denser medium and then again to a rarer medium.</p>
+<h3>Refraction at a Planar Surface</h3>
+<ul>
+    <li>Light bends towards the normal when moving from rarer to denser medium at the surface of the two media.</li>
+    <li>Light bends away from the normal when moving from denser to rarer medium at the surface of contact of the two media.</li>
+    </ul>
+    <h3>Refractive Index</h3>
+    <p>The extent to which light bends when moving from one medium to another is called the refractive index. This depends on the ratio of the speeds in the two media. The greater the ratio, the more the bending. It is also the ratio of the sine of the angle of incidence and the sine of the angle of refraction, which is a constant for any given pair of media. It is denoted by:<br>
+    <b>n = sin&ang;i/sin&ang;r = speed of light in medium 1/speed of light in medium2.</b></p>
+    <p>The ratio of the speed of light in a vacuum to the speed of monochromatic light in the substance of interest is known as the relative refractive index. Mathematically, it is represented as:<br>
+    <b> n = c/v</b><br>
+    Where n is the refractive index of a medium, c is the velocity of light in a vacuum and v is the velocity of light in that particular medium.</p>
+    <h2 id="spherical-lens">Spherical Lens</h2>
+<h3>Refraction at Curved Surfaces</h3>
+<p>When light is incident on a curved surface and passes through, the laws of refraction still hold true, for example, lenses.</p>
+<h3>Spherical Lenses</h3>
+<p>Spherical lenses are lenses formed by binding two spherical transparent surfaces together. Spherical lenses formed by binding two spherical surfaces bulging outward are known as convex lenses while spherical lenses formed by binding two spherical surfaces such that they are curved inward are known as concave lenses.</p>
+
+<h3>Important Terms Related to Spherical Lenses</h3>
+<ul>
+<li>Pole (P): The midpoint or the symmetric centre of a spherical lens is known as its <em>Optical Centre</em>. It is also called the pole.</li>
+<li>Principal Axis: The line passing through the optical centre and the centre of curvature.</li>
+<li>Paraxial Ray: A ray close to the principal axis and also parallel to it.</li>
+<li>Centre of curvature (C): The centres of the spheres that the spherical lens was a part of. A spherical lens has two centres of curvature.</li>
+<li>Focus (F): It is the point on the axis of a lens to which parallel rays of light converge or from which they appear to diverge after refraction.</li>
+<li>Focal length: Distance between optical centre and focus.</li>
+<li>Concave lens: Diverging lens</li>
+<li>Convex lens: Converging lens</li>
+</ul>
+<h3>Rules of Ray Diagram for Representation of Images Formed</h3>
+<ul>
+<li>A ray of light parallel to the principal axis passes/appears to pass through the focus.</li>
+<li>A ray passing through the optical centre undergoes zero deviation.</li>
+</ul>
+<h3>Image Formation by Spherical Lenses</h3>
+<p>The following table shows image formation by a convex lens.</p>
+
+<h2 id="lens-formula-magnification-and-power-of-lens">Lens Formula, Magnification and Power of Lens</h2>
+<h3>Lens Formula and Magnification</h3>
+<p>Lens formula: 1/v = 1/u = 1/f, gives the relationship between the object distance (u), image distance (v), and the focal length (f) of a spherical lens.</p>
+<h4>For more information on Lens Formula, Magnification and Power, watch the below video</h4>
+
+<h3>Uses of Spherical Lens</h3>
+<p>Applications such as visual aids: spectacles, binoculars, magnifying lenses, and telescopes.</p>
+<h3>Power of a Lens</h3>
+<p>The power of a lens is the reciprocal of its focal length i.e. 1/f (in metre). The SI unit of power of a lens is dioptre (D).</p>
+    </body>
+</html>
