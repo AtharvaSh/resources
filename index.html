@@ -38,6 +38,21 @@
     }
     .dropdown-content2 a:hover {background-color: #ddd;}
     .dropdown2:hover .dropdown-content2 { display: block;}
+
+    .member-card {
+  animation: flip 1s ease-in-out;
+  backface-visibility: hidden;
+}
+
+@keyframes flip {
+  from {
+    transform: rotateY(180deg);
+  }
+  to {
+    transform: rotateY(0deg);
+  }
+}
+    
 </style>
 
 
