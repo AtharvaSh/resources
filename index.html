@@ -1,3 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+        header {
+            background-color: #2a9d8f;
+            color: #fff;
+            padding: 10px 20px;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 14px 20px;
+            font-size: 1.1em;
+        }
+        nav a:hover {
+            background-color: #1f6f5c;
+            border-radius: 4px;
+        }
+        .hero {
+            background-color: #264653;
+            color: #fff;
+            text-align: center;
+            padding: 100px 20px 60px;
+            margin-top: 60px; /* Adjust for fixed header */
+        }
+        .hero h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 1.2em;
+        }
+        .info-section {
+            display: flex;
+            justify-content: space-around;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .info-box {
+            background-color: #e9c46a;
+            color: #333;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 30%;
+        }
+        .info-box h2 {
+            font-size: 1.5em;
+            margin-top: 0;
+        }
+        .info-box p {
+            font-size: 1em;
+        }
+        .form-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        .form-container h2 {
+            margin-top: 0;
+        }
+        .form-container input,
+        .form-container textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .form-container button {
+            background-color: #2a9d8f;
+            color: #fff;
+            border: none;
+            padding: 15px;
+            font-size: 1em;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .form-container button:hover {
+            background-color: #21867a;
+        }
+        footer {
+            background-color: #264653;
+            color: #fff;
+            text-align: center;
+            padding: 10px 20px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Courses</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    
+    <section class="hero">
+        <h1>Welcome to Our Educational Platform</h1>
+        <p>Unlock your potential with our comprehensive courses and resources.</p>
+    </section>
+    
+    <section class="info-section">
+        <div class="info-box">
+            <h2>Our Courses</h2>
+            <p>Explore a variety of courses designed to help you achieve your learning goals.</p>
+        </div>
+        <div class="info-box">
+            <h2>Expert Instructors</h2>
+            <p>Learn from industry experts with years of experience and knowledge.</p>
+        </div>
+        <div class="info-box">
+            <h2>Flexible Learning</h2>
+            <p>Study at your own pace with access to materials anytime, anywhere.</p>
+        </div>
+    </section>
+    
+    <section class="form-container">
+        <h2>Get in Touch</h2>
+        <form action="#" method="post">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </section>
+    
+    <footer>
+        &copy; 2024 Educational Website. All rights reserved.
+    </footer>
+</body>
+</html>
 <html>
     <head>
         <title>
